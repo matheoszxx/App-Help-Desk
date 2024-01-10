@@ -1,0 +1,6 @@
+
+1º fazendo a requisição web se comunicar com o servidor:
+
+    No formulario adicionamos um atributo <form action="" ></form> 
+
+    action => é o destino de um submit do formulário, para onde tal formulário sera submetido.
