@@ -19,7 +19,8 @@
     if($usuario_autenticado){
         echo 'Usuario autenticado com sucesso!';
     } else {
-        echo 'Error na autenticação, tente novamente!';
+        //retorna para a página index.php
+        header('Location: index.php?login=erro');
     }
 
     /*
