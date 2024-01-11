@@ -1,11 +1,3 @@
-<?php
-
-    session_start();
-
-    echo $_SESSION['autenticado'];
-
-?>
-
 <html>
   <head>
     <meta charset="utf-8" />
